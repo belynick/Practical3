@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Apple",
+    "Price": 300,
+    "Category": 0
+  },
+  {
+    "Name": "Orange",
+    "Price": 170,
+    "Category": 0
+  },
+  {
+    "Name": "Pepper",
+    "Price": 110,
+    "Category": 1
+  }
+]
